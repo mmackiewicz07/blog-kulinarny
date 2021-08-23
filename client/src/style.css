@@ -1,0 +1,44 @@
+body {
+    background-color: dimgray;
+}
+
+.ui.menu:first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.ui.message.message-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #73e600;
+    margin: 0;
+}
+
+.form-container{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.ui.alertMssg {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.custom-menu {
+    background-color: darkgreen !important;
+}
+
+.custom-items {
+    padding: 0 50px !important;
+}
+
+textarea {
+    resize: none !important;
+}
+
+.segment {
+    background-color: forestgreen !important;
+}
